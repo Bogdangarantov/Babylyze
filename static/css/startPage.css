@@ -1,0 +1,69 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+.babylaze-header{
+    background-color: rgba(221, 252, 173, 1);
+}
+.logo{
+    width: 15rem;
+}
+.navbar-elements{
+    font-family: Oswald;
+    font-size: 24px!important;
+    font-weight: 400!important;
+    line-height: 35.57px;
+    text-align: center;
+}
+.sign-up{
+    padding-left:3rem;
+    padding-right:3rem;
+}
+.sign-up a{
+
+    color: red;
+}
+body{
+    background: url("../img/main-background.png") 0% 0%  no-repeat ;
+    background-size: auto;
+    height: 100%;
+    width: 100%;
+}
+.header-text{
+    padding: 3rem;
+}
+.oswald{
+     font-family: Oswald;
+}
+.par1{
+    font-family: Oswald;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 53.35px;
+    text-align: left;
+}
+.paragraph2{
+    padding: 3rem;
+}
+.par2{
+    font-family: Oswald;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 53.35px;
+    text-align: left;
+}
+.lets-get-started{
+    padding: 1rem 3rem;
+    border: 0px solid transparent;
+    background-color: rgba(200, 224, 135, 1);
+    border-radius: 30px;
+}
+.lets-start-container{
+    justify-content: center;
+    display: flex;
+    padding-bottom: 5rem;
+}
+.text{
+    justify-content: center;
+    display: flex;
+}
